@@ -1,0 +1,19 @@
+{
+  "name": "prof.oak",
+  "version": "1.0.0",
+  "description": "Bot to save and display nintendo friend codes to discord users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMinhoto/prof.Oak.git"
+  },
+  "author": "bit; darioDex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VMinhoto/prof.Oak/issues"
+  },
+  "homepage": "https://github.com/VMinhoto/prof.Oak#readme"
+}
